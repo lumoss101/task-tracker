@@ -1,0 +1,20 @@
+{
+    "todo": [
+        {
+            "title": "buy house",
+            "description": "buy house for wife",
+            "due_date": "2050-12-12",
+            "due_time": "12:00"
+        }
+    ],
+    "done": [
+        {
+            "title": "buy fruits",
+            "description": "buy some fruits to eat",
+            "due_date": "2000-2-20",
+            "due_time": "00:00",
+            "completed": true,
+            "completed_at": "2026-04-14 16:24:40"
+        }
+    ]
+}
