@@ -2,7 +2,7 @@
 
 A simple command-line task tracker built in Python. Tasks are stored locally in a JSON file and organized into two lists: **To-Do** and **Done**.
 
-# https://github.com/lumoss101/task-tracker/tree/main
+# This project was a part of a Roadmap Sh Challange that you can access in https://roadmap.sh/projects/task-tracker
 
 ---
 
