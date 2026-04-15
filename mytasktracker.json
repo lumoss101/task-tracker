@@ -1,0 +1,12 @@
+{
+    "todo": [],
+    "done": [
+        {
+            "title": "clean floor",
+            "description": "wipe the floor with a mop",
+            "due_date": "2026-14-14",
+            "due_time": "08:00",
+            "completed_at": "2026-04-15 21:45:06"
+        }
+    ]
+}

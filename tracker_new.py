@@ -3,8 +3,7 @@ from argparse import ArgumentParser
 from datetime import datetime
 from pathlib import Path
 
-TASKS_FILE = Path("tracker.json")
-
+TASKS_FILE = Path("mytasktracker.json")
 
 # ---------- Load / Save ----------
 
@@ -151,8 +150,8 @@ def print_list(tasks):
 def main():
     parser = ArgumentParser(description="Simple task tracker")
     parser.add_argument("command", choices=[
-        "add.task", "list.tasks", "update.task",
-        "delete.task", "delete.all.tasks", "mark.completed"
+        "add", "list", "update",
+        "delete", "delete.all", "mark.done"
     ], help="Command to execute")
     args = parser.parse_args()
 
